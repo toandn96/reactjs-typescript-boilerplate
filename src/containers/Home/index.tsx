@@ -12,10 +12,9 @@ const Home: React.FunctionComponent = () => {
           </p>
           <a
             className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
+            href="/identity/login"
             rel="noopener noreferrer">
-            Learn React
+            Go to Login
           </a>
         </header>
       </div>
